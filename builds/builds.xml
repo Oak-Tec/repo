@@ -1,1 +1,18 @@
-
+<builds>
+<build>
+<name></name>
+<version>xStream+</version>
+<url>http://funstersplace.net/Builds/xontrix21.zip</url>
+<icon>https://funstersplace.net/images/test.jpg</icon>
+<fanart>https://funstersplace.net/images/test.jpg</fanart>
+<description>Für alle Geräte</description>
+</build>
+<build>
+<name>xStream+ TV</name>
+<version>1.2</version>
+<url>http://funstersplace.net/Builds/xontrix21.zip</url>
+<icon>https://imgur.com/bo6RFo0.jpg</icon>
+<fanart>https://imgur.com/bo6RFo0.jpg</fanart>
+<description>Für SmartTV</description>
+</build>
+</builds>
